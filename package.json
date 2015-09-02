@@ -27,5 +27,11 @@
     "prepublish": "gulp prepublish",
     "test": "gulp"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "q": "^1.4.1",
+    "should": "^7.1.0",
+    "sinon": "^1.16.1"
+  }
 }
